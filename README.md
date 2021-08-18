@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonicaKim89&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MonicaKim89&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Working on 🤔
+### Struggling with 🤔
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
