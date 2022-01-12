@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 5. [한의원 리뷰데이터분석: LDA토픽모델링을 중심으로](https://github.com/MonicaKim89/Text_Mining/tree/main/Korean_medicine)
 6. (Working) [관절염 진행단계 분류](https://github.com/MonicaKim89/Arthritis_Classification)
 7. (Working) [보건의료·산업 기술수준조사 추진계획 수립 및 논문·특허분석](https://github.com/MonicaKim89/Mega_Trend)
-8. (Working) [커버글래스 fracture Classification](https://github.com/MonicaKim89/Surface_Fracture)
+8. (Working) [커버글래스 defect detection/classification](https://github.com/MonicaKim89/Surface_Fracture)
 
 
 ### Articles ###
