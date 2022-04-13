@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ### Articles ###
 1. [딥러닝 기반 치과 의료영상 판독에 대한 문헌 분석](https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002632863)
 2. (Working) 치과의원 리뷰데이터 분석: LDA토픽모델링을 중심으로
-3. (Working) 한의원 리뷰데이터 분석: LDA토픽모델링을 중심으로
+3. (Working) 한의원 리뷰데이터 분석: LDA토픽모델링을 중심으로(https://www.jkom.org/journal/view.php?doi=10.13048/jkm.22007)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MonicaKim89&theme=tokyonight&show_icons=true)
