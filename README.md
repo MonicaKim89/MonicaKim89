@@ -32,9 +32,10 @@ Here are some ideas to get you started:
 3. [머신러닝을 이용한 운반주의마크 추출 및 탐지](https://github.com/MonicaKim89/Sign_Recognition)
 4. [치과의원 리뷰데이터분석: LDA토픽모델링을 중심으로](https://github.com/MonicaKim89/Text_Mining/tree/main/Korean_medicine)
 5. [한의원 리뷰데이터분석: LDA토픽모델링을 중심으로](https://github.com/MonicaKim89/Text_Mining/tree/main/Korean_medicine)
-6. (Working) [관절염 진행단계 분류](https://github.com/MonicaKim89/Arthritis_Classification)
-7. (Working) [보건의료·산업 기술수준조사 추진계획 수립 및 논문·특허분석](https://github.com/MonicaKim89/Mega_Trend)
-8. (Working) [커버글래스 defect detection/classification](https://github.com/MonicaKim89/Surface_Fracture)
+6. (Working) [텍스트마이닝 기법을 활용한 소비자 만족 Tracking 모델 개발 - 피부과 의원 리뷰를 중심으로](https://github.com/MonicaKim89/Review_analysis_text_mining)
+7. (Working) [관절염 진행단계 분류](https://github.com/MonicaKim89/Arthritis_Classification)
+8. (Working) [보건의료·산업 기술수준조사 추진계획 수립 및 논문·특허분석](https://github.com/MonicaKim89/Mega_Trend)
+9. (Working) [커버글래스 defect detection/classification](https://github.com/MonicaKim89/Surface_Fracture)
 
 
 ### Articles ###
