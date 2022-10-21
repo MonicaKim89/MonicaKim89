@@ -13,10 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Who am I?
-러시아어, 러시아/중앙아시아 지역학, 의료경영, 빅데이터/딥러닝 개발까지  
-돌고 돌아 온 것 같지만 ⚡의료산업해외진출⚡ 한 우물만 파다가 기술 없으면 굶어 죽을 것 같아 파이썬 시작  
-내 성향이 이쪽인지 누가 알았을까여...🤔  
-그래도 의료산업 포기못해....:muscle:  
+Living Kreacher 
 
   
 ### ✨ My Favorite Topics ✨
